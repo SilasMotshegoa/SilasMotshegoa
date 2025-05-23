@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - **Name**: [Silas Motshegoa]
 - **Qualification**: Diploma in ICT
-- **GitHub Repository**: [(https://github.com/SilasMotshegoa/SilasMotshegoa/main/tree)]
+- **GitHub Repository**: [(https://github.com/SilasMotshegoa/SilasMotshegoa)]
 
 ---
 
