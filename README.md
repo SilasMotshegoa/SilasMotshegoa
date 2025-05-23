@@ -8,13 +8,14 @@
 ---
 
 ## 1. 📘 Career Counselling
-
+ ![Screenshot 2025-05-23 171902](https://github.com/user-attachments/assets/51387e89-c973-41b6-9c22-f5280457e635)
 ### ✅ Evidence
-Upload artefacts here (e.g. PDF reports, summary docs, screenshots).
+
 
 ### 💬 Reflection (STAR)
 **Situation**:  
-**Task**:  
+**Task**: 
+
 **Action**:  
 **Result**:  
 
