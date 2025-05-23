@@ -24,7 +24,7 @@
 ## 2. 💡 Skills and Interests
 
 ### ✅ Evidence
-Upload your skills audit, interest profiling test results, etc.
+![Screenshot 2025-05-23 172059](https://github.com/user-attachments/assets/8fcae855-218a-483c-9c32-9c5dce45dfed)
 
 ### 💬 Reflection (STAR)
 **Situation**:  
@@ -37,7 +37,7 @@ Upload your skills audit, interest profiling test results, etc.
 ## 3. 🧠 Personality Assessment
 
 ### ✅ Evidence
-Attach your personality test results (e.g., 16Personalities or MBTI report).
+![Screenshot 2025-05-23 171920](https://github.com/user-attachments/assets/d57d3cb7-8807-412b-a5e5-ef5f58c1bfee)
 
 ### 💬 Reflection (STAR)
 **Situation**:  
@@ -50,7 +50,7 @@ Attach your personality test results (e.g., 16Personalities or MBTI report).
 ## 4. 📄 Create a CV
 
 ### ✅ Evidence
-Provide a link to your Markdown-based CV or upload it as a `.pdf`.
+![Screenshot 2025-05-23 171940](https://github.com/user-attachments/assets/1b28bad8-8b8b-4b5a-ad23-f16d3aca6ba9)
 
 ### 💬 Reflection (STAR)
 **Situation**:  
@@ -63,7 +63,8 @@ Provide a link to your Markdown-based CV or upload it as a `.pdf`.
 ## 5. 📤 CV Submission
 
 ### ✅ Evidence
-Screenshot or link showing submission of your CV.
+[CV (2).pdf](https://github.com/user-attachments/files/20413433/CV.2.pdf)
+
 
 ### 💬 Reflection (STAR)
 **Situation**:  
@@ -71,7 +72,4 @@ Screenshot or link showing submission of your CV.
 **Action**:  
 **Result**:  
 
----
 
-## 📌 Notes
-> All evidence is original and the work is individually completed as per assessment instructions.
