@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - **Name**: [Silas Motshegoa]
 - **Qualification**: Diploma in ICT
-- **GitHub Repository**: [Link to this repo]
+- **GitHub Repository**: [(https://github.com/SilasMotshegoa/SilasMotshegoa/main/tree)]
 
 ---
 
@@ -74,7 +74,7 @@ My task was to prepare a well-structured, readable CV using Markdown and post it
 **Action**:  
 I researched CV format rules and reviewed examples on GitHub and LinkedIn. I then created a Markdown-formatted CV with information on my education, technical expertise, work experience, certifications, and short project summary. I also made sure that I tailored it for ICT-related career opportunities by highlighting tools like Git, Java, and web development.
 **Result**:  
-
+I also managed to successfully create a professional CV in Markdown and posted it on GitHub as part of my digital portfolio. The CV is now easily accessible to prospective employers and constitutes part of my application package for employment in the future.
 
 ---
 
