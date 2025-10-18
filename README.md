@@ -163,7 +163,7 @@ I became more confident and articulate, learning how to handle challenging quest
 ## 8. 📤 Mock Interview
 
 ### ✅ Evidence
-*(Add screenshot or proof of participation here if available)*
+<img width="474" height="350" alt="Screenshot 2025-10-18 134600" src="https://github.com/user-attachments/assets/0ce6adf6-cbcc-439c-b5d0-f1acf3ed3381" />
 
 ### 💬 Reflection (STAR)
 **Situation**:  
