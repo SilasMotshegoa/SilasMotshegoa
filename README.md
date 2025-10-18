@@ -140,7 +140,7 @@ My submissions were well-received and free of misunderstandings. This taught me 
 
 ---
 
-## 7. 📤 Interview Skills
+## 7. 💬 Interview Skills
 
 ### ✅ Evidence
 ![Screenshot 2025-10-18 131621](https://github.com/user-attachments/assets/8eb2d98c-2fdd-44f2-b8b4-0e5cba08c298)
@@ -160,7 +160,7 @@ I became more confident and articulate, learning how to handle challenging quest
 
 ---
 
-## 8. 📤 Mock Interview
+## 8. 🎥 Mock Interview
 
 ### ✅ Evidence
 <img width="474" height="350" alt="Screenshot 2025-10-18 134600" src="https://github.com/user-attachments/assets/0ce6adf6-cbcc-439c-b5d0-f1acf3ed3381" />
@@ -180,7 +180,7 @@ The feedback I received highlighted my confidence and clarity but also encourage
 
 ---
 
-## 9. 📤 Professional Networking
+## 9. 🌐 Professional Networking
 
 ### ✅ Evidence
 ![Screenshot 2025-10-18 132002](https://github.com/user-attachments/assets/dfe4a2f6-42ed-47d1-8003-4c389cc41c0e)
@@ -201,7 +201,7 @@ I successfully expanded my network and gained insight into current industry tren
 
 ---
 
-## 10. 📤 Workplace Etiquette
+## 10.🧭 Workplace Etiquette
 
 ### ✅ Evidence
 ![Screenshot 2025-10-18 132629](https://github.com/user-attachments/assets/4bd4c195-38f8-47fc-857a-79bc466b5d0b)
