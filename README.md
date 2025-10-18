@@ -184,7 +184,6 @@ The feedback I received highlighted my confidence and clarity but also encourage
 
 ### ✅ Evidence
 ![Screenshot 2025-10-18 132002](https://github.com/user-attachments/assets/dfe4a2f6-42ed-47d1-8003-4c389cc41c0e)
-![Screenshot 2025-10-18 132002](https://github.com/user-attachments/assets/b45adb3c-1354-4d25-ae20-ef98b89ac0b7)
 
 ### 💬 Reflection (STAR)
 **Situation**:  
