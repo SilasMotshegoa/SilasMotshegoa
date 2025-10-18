@@ -120,78 +120,101 @@ I reviewed my CV once more meticulously to ensure that it was correct and consis
 
 ---
 
-//
-6. 📤 Business Communication
-### 💬 Reflection (STAR)
+## 6. 📤 Business Communication
 
-Situation:
+### ✅ Evidence
+![Screenshot 2025-10-18 131417](https://github.com/user-attachments/assets/ee99d1c2-f239-4ff3-b0c4-798dfbef4705)
+
+### 💬 Reflection (STAR)
+**Situation**:  
 During my work readiness preparation, I needed to communicate professionally through email and official platforms like Blackboard and GitHub.
 
-Task:
+**Task**:  
 My task was to ensure all my communication — including my CV submission, emails, and portfolio updates — was clear, professional, and followed formal writing standards.
 
-Action:
+**Action**:  
 I carefully drafted and proofread my messages before sending them, used appropriate subject lines and professional tone, and ensured I attached or linked the correct files.
 
-Result:
+**Result**:  
 My submissions were well-received and free of misunderstandings. This taught me the importance of professional tone, clarity, and attention to detail when communicating in a business context.
 
-7. 📤 Interview Skills
-💬 Reflection (STAR)
+---
 
-Situation:
+## 7. 📤 Interview Skills
+
+### ✅ Evidence
+![Screenshot 2025-10-18 131621](https://github.com/user-attachments/assets/8eb2d98c-2fdd-44f2-b8b4-0e5cba08c298)
+
+### 💬 Reflection (STAR)
+**Situation**:  
 As part of preparing for the job market, I had to practice responding to common interview questions and learn how to present myself professionally.
 
-Task:
+**Task**:  
 My goal was to build confidence in expressing my skills, experiences, and goals clearly and effectively during a mock interview session.
 
-Action:
+**Action**:  
 I researched common technical and behavioral questions, practiced using the STAR method to structure my answers, and recorded myself to improve tone, pace, and body language.
 
-Result:
+**Result**:  
 I became more confident and articulate, learning how to handle challenging questions calmly. This helped me understand how preparation can make a strong impression in real interviews.
 
-8. 📤 Mock Interview
-💬 Reflection (STAR)
+---
 
-Situation:
+## 8. 📤 Mock Interview
+
+### ✅ Evidence
+*(Add screenshot or proof of participation here if available)*
+
+### 💬 Reflection (STAR)
+**Situation**:  
 Our class organized mock interviews to simulate a real hiring experience and assess our readiness for workplace interactions.
 
-Task:
+**Task**:  
 I needed to present myself professionally, demonstrate my communication skills, and respond thoughtfully to the interviewer’s questions.
 
-Action:
+**Action**:  
 I dressed appropriately, maintained good posture and eye contact, and used my prepared STAR answers to respond to situational questions.
 
-Result:
+**Result**:  
 The feedback I received highlighted my confidence and clarity but also encouraged me to work on providing more specific examples. It was a valuable experience that made me feel better prepared for real interviews.
 
-9. 📤 Professional Networking
-💬 Reflection (STAR)
+---
 
-Situation:
+## 9. 📤 Professional Networking
+
+### ✅ Evidence
+![Screenshot 2025-10-18 132002](https://github.com/user-attachments/assets/dfe4a2f6-42ed-47d1-8003-4c389cc41c0e)
+![Screenshot 2025-10-18 132002](https://github.com/user-attachments/assets/b45adb3c-1354-4d25-ae20-ef98b89ac0b7)
+
+### 💬 Reflection (STAR)
+**Situation**:  
 Building professional connections is vital for career growth, so I took steps to establish my online professional presence.
 
-Task:
+**Task**:  
 I needed to create and update my LinkedIn profile and connect with peers, lecturers, and professionals in my field.
 
-Action:
+**Action**:  
 I created a professional profile with a clear headline, summary, and project links from GitHub. I engaged with posts and joined relevant tech and career groups.
 
-Result:
+**Result**:  
 I successfully expanded my network and gained insight into current industry trends. This experience showed me how online networking can open opportunities and enhance visibility in my field.
 
-10. 📤 Workplace Etiquette
-💬 Reflection (STAR)
+---
 
-Situation:
+## 10. 📤 Workplace Etiquette
+
+### ✅ Evidence
+![Screenshot 2025-10-18 132629](https://github.com/user-attachments/assets/4bd4c195-38f8-47fc-857a-79bc466b5d0b)
+
+### 💬 Reflection (STAR)
+**Situation**:  
 Understanding workplace behavior and professionalism was part of preparing for future employment.
 
-Task:
+**Task**:  
 I needed to demonstrate awareness of appropriate conduct, such as punctuality, respect, teamwork, and communication etiquette in professional environments.
 
-Action:
+**Action**:  
 I studied case studies and participated in discussions on handling workplace scenarios professionally. I also practiced applying these principles in group projects by being reliable and respectful.
 
-Result:
+**Result**:  
 I developed a stronger sense of professionalism and accountability, which I can now carry into any work environment. I learned that etiquette contributes directly to teamwork, trust, and career growth.
