@@ -1,4 +1,4 @@
-# Hi, I'm Silas Motshegoa 👋🏾
+# Hi, I'm Silas Motshegoa 
 
 ### Junior Software Developer | ICT Applications Development
 
@@ -8,7 +8,7 @@ I’m particularly interested in **software development, backend systems, APIs, 
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 ### CVInsight AI
 
@@ -18,7 +18,7 @@ An AI-powered CV analysis and optimization platform inspired by my own job-searc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -47,23 +47,23 @@ An AI-powered CV analysis and optimization platform inspired by my own job-searc
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🧠 CVInsight AI
+### CVInsight AI
 AI-powered CV analysis and ATS optimization platform. Built to explore AI integration, API development, document processing, and practical software engineering.
 
-### 🛒 QuickCart / Shopping Applications
+### QuickCart / Shopping Applications
 A collection of e-commerce application work exploring product management, shopping carts, APIs, databases, and mobile application development.
 
-### 📚 Library Management System
+### Library Management System
 A Java-based library management project demonstrating application development and database concepts.
 
-### 🌐 Personal Website
+### Personal Website
 A personal web project created to build and showcase my online presence and development skills.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Diploma in ICT: Applications Development**  
 Cape Peninsula University of Technology (CPUT)
@@ -79,7 +79,7 @@ My studies gave me a foundation in:
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Building production-ready REST APIs
 - Backend architecture with Spring Boot and Python
@@ -91,7 +91,7 @@ My studies gave me a foundation in:
 
 ---
 
-## 🧩 How I Approach Development
+## How I Approach Development
 
 I don't expect projects to work perfectly on the first attempt.
 
@@ -101,10 +101,10 @@ I use my projects to turn what I learn into practical experience.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: [@SilasMotshegoa](https://github.com/SilasMotshegoa)
 
 ---
 
-⭐ Thanks for visiting my profile. I'm continuously building, learning, and improving.
+Thanks for visiting my profile. I'm continuously building, learning, and improving.
